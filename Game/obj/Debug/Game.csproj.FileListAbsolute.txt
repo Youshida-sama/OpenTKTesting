@@ -1,0 +1,16 @@
+C:\Users\Akari\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Akari\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\Akari\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\Akari\source\repos\Game\Game\bin\Debug\OpenTK.dll
+C:\Users\Akari\source\repos\Game\Game\bin\Debug\OpenTK.pdb
+C:\Users\Akari\source\repos\Game\Game\bin\Debug\OpenTK.xml
+C:\Users\Akari\source\repos\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Akari\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Akari\source\repos\Game\Game\obj\Debug\Game.csproj.CopyComplete
+C:\Users\Akari\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\Akari\source\repos\Game\Game\obj\Debug\Game.pdb
+C:\Users\Akari\source\repos\Game\Game\bin\Debug\Content\T1\bricks.png
+C:\Users\Akari\source\repos\Game\Game\bin\Debug\Content\T1\dark_oak_planks.png
+C:\Users\Akari\source\repos\Game\Game\bin\Debug\Content\T1\dirt.png
+C:\Users\Akari\source\repos\Game\Game\bin\Debug\Content\T1\grass3.png
+C:\Users\Akari\source\repos\Game\Game\bin\Debug\Content\T1\grass_block_side.png
